@@ -144,13 +144,27 @@
             text-transform: lowercase;
         }
         
-        .bar-mon { height: 40px; }
-        .bar-tue { height: 85px; }
-        .bar-wed { height: 120px; }
-        .bar-thu { height: 75px; }
-        .bar-fri { height: 65px; }
-        .bar-sat { height: 100px; }
-        .bar-sun { height: 70px; }
+        .bar-mon {
+            height: 40px;
+        }
+        .bar-tue {
+            height: 85px; 
+        }
+        .bar-wed {
+            height: 120px; 
+        }
+        .bar-thu {
+            height: 75px; 
+        }
+        .bar-fri {
+            height: 65px; 
+        }
+        .bar-sat {
+            height: 100px; 
+        }
+        .bar-sun {
+            height: 70px; 
+        }
 
 
         .total-spending {
